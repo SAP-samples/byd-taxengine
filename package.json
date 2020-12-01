@@ -1,0 +1,26 @@
+{
+  "name": "byd-taxengine",
+  "version": "1.0.0",
+  "description": "Simplest Dummy Tax Engine Sample",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "soap": "^0.35.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B1SA/byd-taxengine.git"
+  },
+  "author": "Thiago Mendes",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/B1SA/byd-taxengine/issues"
+  },
+  "homepage": "https://github.com/B1SA/byd-taxengine#readme"
+}
