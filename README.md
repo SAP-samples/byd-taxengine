@@ -10,7 +10,7 @@ This application is a sample code for partners looking on how to calculate tax r
 
 ## Requirements
 * SAP Business ByDesign Partner's Development Tenant
-* The [CalculationProcedureForTaxes BADI](https://github.com/B1SA/byd-taxengine/) configured.
+* The [CalculationProcedureForTaxes BADI](https://blogs.sap.com/2020/12/02/the-guide-hybrid-tax-calculation-for-the-smb/) configured.
 
 ## Deployment
 Clone or download this repository:
