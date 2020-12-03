@@ -6,14 +6,11 @@
 [![](https://blogs.sap.com/wp-content/uploads/2020/11/badi_lc.jpg)]()
 
 ## Description
-This application calculates tax rates and tax base amounts based on SAP Business ByDesign Tax Input Data for the BADI's CalculationProcedureForTaxes. When invoked, it gets the data from BADI, runs a dummy calculation (just as an example so you can change it) and returns tax rate and tax base amount.
+This application is a sample code for partners looking on how to calculate tax rates and tax base amounts based on SAP Business ByDesign Tax Input Data for the BADI's CalculationProcedureForTaxes. When invoked, it gets the input data from BADI, runs a dummy calculation (just as an example so you can replace it with your own logic/rules) and returns tax rate and tax base amount. It is part of [this blog post](https://blogs.sap.com/2020/12/02/the-guide-hybrid-tax-calculation-for-the-smb/) - please refer to it for further information.
 
 ## Requirements
 * SAP Business ByDesign Partner's Development Tenant
 * The [CalculationProcedureForTaxes BADI](https://github.com/B1SA/byd-taxengine/) configured.
-
-## Notes
-* 
 
 ## Deployment
 Clone or download this repository:
